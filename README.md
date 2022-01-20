@@ -1,4 +1,4 @@
-# TranslateColabJupyterNotebooks
+# Translate Colab Jupyter Notebooks
 Colab Jupyter notebook to translate Jupyter notebooks 
 
 Jupyter notebooks are very practical because they consist of text in Markdown cells and code cells, usually Python code, which can be run inside the document in the browser. This makes them interactive documents. But for translating Jupyter notebooks into a different language, the usual services, like DeepL, don't work. Examples are my Climate Change Calculated and Corona Computation Jupyter notebooks.
