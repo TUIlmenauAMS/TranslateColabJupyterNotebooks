@@ -17,5 +17,5 @@ For long documents, "translate_jupyter_notebooks.ipynb" seems to work better,
 
 
 Many greetings,
-  Gerald Schuller, January 2022
+  Gerald Schuller, January 2022, updated September 2023
 
