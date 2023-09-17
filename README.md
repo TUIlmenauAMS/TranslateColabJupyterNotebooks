@@ -12,6 +12,10 @@ To run it, open "translate_jupyter_gs.ipynb" in Colab (using the button), and th
 Then let the 4th cell run to do the actual translation. This might again take some time. The output file has the abbreviation of the target language appended to its base name in the same directory as the input file. The translation is usually not perfect, and needs some fixing.
 For long documents, a high ram setting might be needed.
 
+For long documents, "translate_jupyter_notebooks.ipynb" seems to work better,
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/TranslateColabJupyterNotebooks/blob/main/translate_jupyter_notebooks.ipynb)
+
+
 Many greetings,
   Gerald Schuller, January 2022
 
